@@ -42,10 +42,10 @@ header{
     background-image: url("/Assets/Hero-bg.png");
     height: 698px;
     width: 100%;
-    background-size: cover;
+    /* background-size: cover;
     position: relative;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; */
 }
 nav{
     display: flex;
