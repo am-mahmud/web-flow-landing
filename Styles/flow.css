@@ -224,6 +224,9 @@ main{
 
 .contact-title{
     font-size: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .contact-form input[type="text"], .contact-form input[type="email"]{
