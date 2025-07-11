@@ -39,7 +39,7 @@
 /* Header & Nav */
 
 header{
-    background-image: url("../assets/hero-bg.png");
+    background-image: url("assets/hero-bg.png");
     height: 698px;
     width: 100%;
     background-size: cover;
