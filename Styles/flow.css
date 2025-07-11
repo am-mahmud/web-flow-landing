@@ -117,7 +117,39 @@ main{
 }
 
 
+.contact-form{
+    display: flex;
+    justify-content: space-between;
+}
 
+.contact-title{
+    font-size: 55px;
+}
+
+.contact-form input[type="text"], .contact-form input[type="email"]{
+    height: 30px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+
+.contact-form textarea{
+    border-radius: 5px;
+    background-color: whitesmoke;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+}
+
+.contact-form button{
+    width: 110%;
+}
 
 /* Footer Section */
 
@@ -141,6 +173,7 @@ main{
 .footer-link ul li a{
     text-decoration: none;
     color: #8987A1;
+    font-size: 14px;
 }
 
 
