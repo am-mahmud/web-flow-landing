@@ -128,6 +128,22 @@ main{
     text-align: center;
 }
 
+.footer-link ul{
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+.footer-link ul li{
+    list-style: none;
+}
+
+.footer-link ul li a{
+    text-decoration: none;
+    color: #8987A1;
+}
+
+
 
 
 
