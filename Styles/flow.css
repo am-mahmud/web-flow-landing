@@ -25,6 +25,12 @@
     border: none;
 }
 
+.btn-primary:hover{
+    background-color: #E5E7FF;
+    color: #4E47FF;
+}
+
+
 .sec-title{
     font-size: 42px;
 }
