@@ -39,14 +39,15 @@
 /* Header & Nav */
 
 header{
-    background-image: url("/Assets/Hero-bg.png");
+    background-image: url("../assets/hero-bg.png");
     height: 698px;
     width: 100%;
-    /* background-size: cover;
-    position: relative;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
-    background-position: center; */
 }
+
+
 nav{
     display: flex;
     justify-content: space-between;
