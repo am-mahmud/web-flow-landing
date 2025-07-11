@@ -7,11 +7,7 @@
 }
 
 /* Secondary Fonts */
-/* .montserrat-normal> {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
-} */
+
 
 /* Shared Style */
 
@@ -45,6 +41,11 @@
 header{
     background-image: url("/Assets/Hero-bg.png");
     height: 698px;
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 nav{
     display: flex;
@@ -209,6 +210,10 @@ main{
     display: flex;
     justify-content: center;
     margin-bottom: 60px;
+}
+
+.focus-img-red{
+    border-radius: 10px;
 }
 
 
