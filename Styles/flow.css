@@ -118,6 +118,13 @@ main{
     display: flex;
     justify-content: space-between;
     margin-bottom: 130px;
+    gap: 30px;
+}
+
+.user-fedback-card{
+    background-color: whitesmoke;
+    padding: 50px;
+    border-radius: 10px;
 }
 
 .user-fedback{
