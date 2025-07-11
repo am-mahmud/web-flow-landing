@@ -1,0 +1,121 @@
+/* Main Fonts */
+
+.montserrat-normal{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+/* Secondary Fonts */
+/* .montserrat-normal> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+} */
+
+/* Shared Style */
+
+.btn-primary{
+    background-color: #4E47FF;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 15px 25px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: none;
+}
+
+.sec-title{
+    font-size: 42px;
+}
+
+.sec-description{
+    font-size: 20px;
+}
+
+
+/* Header & Nav */
+
+header{
+    background-image: url("/Assets/Hero-bg.png");
+    height: 698px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 150px;
+}
+
+.logo-text{
+    font-size: 34px;
+    color: #4E47FF;
+    font-weight: bold;
+}
+
+.hero-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    text-align: center;
+}
+
+.hero-btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner-sec{
+    margin-top: 100px;
+    margin-left: 268px;
+    margin-right: 268px;
+    margin-bottom: 180px;
+}
+
+/* Main Section */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.sec-action{
+    margin-top: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 116px;
+}
+
+.sec-action-img{
+    border-radius: 8px;
+}
+
+
+.sec-user{
+    background-color: #a19feb;
+    border-radius: 10px;
+    text-align: center;
+    padding: 50px 142px;
+    margin-top: 130px;
+    margin-bottom: 100px;
+}
+
+
+
+
+
+/* Footer Section */
+
+.footer-logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
